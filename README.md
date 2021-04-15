@@ -48,7 +48,7 @@
 #### K-1-3. Muti-Lingual Fault Benchmark (보고서)
 
 - Python과 C 두 개 언어로 이루어진 오픈소스 프로젝트 (TensorFlow, Numpy)로부터 다중언어 결함 10개 조사 발굴
-- PDF: 
+- PDF: [[K-1-3 Multilingual Fault Benchmark.pdf](https://github.com/coinse/NGICDP_Div3_KAIST/blob/main/stage1year1/K-1-3 Multilingual Fault Benchmark.pdf)](https://github.com/coinse/NGICDP_Div3_KAIST/blob/main/stage1year1/K-1-3%20Multilingual%20Fault%20Benchmark.pdf)
 
 ## 2단계 1차년도 (2018.06 ~ 2019.05)
 
@@ -74,14 +74,14 @@
 
 - 과거 뮤테이션 데이터를 분석하여 현재 발생한 결함의 위치를 예측하는 랭킹 모델 4종을 개발 (Exact Match, Partial Match, Logistic Regression, MLP). 
 - 357개의 오픈소스 결함에 평가함.
-- arXiv preprint: https://arxiv.org/abs/1902.09729, PDF: 
+- arXiv preprint: https://arxiv.org/abs/1902.09729, PDF: [K-2-2 Amortising the Cost of Mutation Based Localisation using Statistical Inference](https://github.com/coinse/NGICDP_Div3_KAIST/blob/main/stage2year1/K-2-2%20Amortising%20the%20Cost%20of%20Mutation%20Based%20Fault%20Localisation%20using%20Statistical%20Inference.pdf)
 
 ## 2단계 2차년도 (2019.06 ~ 2020.03)
 
 #### K-3-1. Search Based Repair of Deep Neural Networks  (보고서)
 
 - 다중언어 환경 구성 요소로 새롭게 등장한 심층신경망 모델에 대해, 기존에 트레이닝된 모델을 시드로 이용해 추가적인 데이터 없이 수정할 수 있는 휴리스틱 2종 개발 (각각 PSO, DE 기반)
-- arXiv preprint: https://arxiv.org/abs/1912.12463, PDF: 
+- arXiv preprint: https://arxiv.org/abs/1912.12463, PDF: [K-3-1 Search Based Repair of Deep Neural Networks](https://github.com/coinse/NGICDP_Div3_KAIST/blob/main/stage2year3/K-3-1%20Search%20Based%20Repair%20of%20Deep%20Neural%20Networks%20.pdf)
 
 #### K-3-2. PyGGI 2.0: Language Independent Genetic Improvement Framework (국제학회: ESEC/FSE)
 
