@@ -109,7 +109,7 @@
 #### K-4-1. Human-in-the-Loop Fault Localisation Using Efficient Test Prioritisation of Generated Tests (보고서)
 
 - 결함 위치 식별의 정확도를 높이는 데에 필요한 테스트를 자동 생성 및 선별하는 휴리스틱 3종 개발 (K-4-1)
-- arXiv preprint: https://arxiv.org/abs/2104.06641, PDF: 
+- arXiv preprint: https://arxiv.org/abs/2104.06641, PDF: [K-4-1 Human-in-the-Loop Fault Localisation Using Efficient Test Prioritisation of Generated Tests](https://github.com/coinse/NGICDP_Div3_KAIST/blob/main/stage2year3/K-4-1%20Human-in-the-Loop%20Fault%20Localisation%20Using%20Efficient%20Test%20Prioritisation%20of%20Generated%20Tests.pdf)
 
 #### K-4-2. Causal Program Dependence Analysis (보고서 / Under Review)
 
