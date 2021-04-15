@@ -43,7 +43,7 @@
 #### K-1-2. Genetic Programming for MUSEUM Fault Localisation (보고서)
 
 - 다중언어 결함 위치 식별 세계 최고 수준의 정확도를 가진 Museum에 SBFL 스코어를 추가한 유전 프로그래밍 모델을 이용해 분석한 결함 8개를 모두 정확하게 식별함 (100%)
-- PDF: []
+- PDF: [K-1-2 Genetic Programming for Museum Fault Localisation](https://github.com/coinse/NGICDP_Div3_KAIST/blob/main/stage1year1/K-1-2%20Genetic%20Programming%20for%20MUSEUM%20Fault%20Localisation.pdf)
 
 #### K-1-3. Muti-Lingual Fault Benchmark (보고서)
 
